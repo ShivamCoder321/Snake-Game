@@ -1,2 +1,2 @@
 # Snake-Game
-I have made a snake game.
+This Snake Game is based on Pycharm Pygame, write pip install pygame in the Terminal before.
